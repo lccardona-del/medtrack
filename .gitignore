@@ -1,0 +1,9 @@
+# Archivos del sistema operativo macOS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+
+# Archivos temporales y registros
+*.log
