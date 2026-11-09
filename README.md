@@ -55,6 +55,7 @@ El diseño original fue concebido en **Google Stitch** bajo el sistema visual *C
 ```text
 ├── index.html               # Aplicación web unificada (compatible con GitHub Pages)
 ├── app.js                   # Lógica de la aplicación y almacenamiento local
+├── logo.svg                 # Logo oficial de MedTrack (Clinical Precision UI)
 ├── README.md                # Documentación del proyecto
 ├── .gitignore               # Exclusión de archivos del sistema operativo
 ├── clinical_precision_ui/   # Especificación de diseño original (DESIGN.md)
